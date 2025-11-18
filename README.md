@@ -34,3 +34,5 @@ npm run build
 npm run lint
 ```
 # PotatoPal-
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=l0r3ntz/potatopal-@github)](https://gitads.dev/v1/ad-track?source=l0r3ntz/potatopal-@github)
