@@ -1,5 +1,5 @@
 # PotatoPal
-
+<!-- GitAds-Verify: V928434PZBMPKH3FKGNDFCZFPTQKDLGF -->
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -34,5 +34,3 @@ npm run build
 npm run lint
 ```
 # PotatoPal-
-
-<!-- GitAds-Verify: V928434PZBMPKH3FKGNDFCZFPTQKDLGF -->
