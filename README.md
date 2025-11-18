@@ -34,3 +34,5 @@ npm run build
 npm run lint
 ```
 # PotatoPal-
+
+<!-- GitAds-Verify: V928434PZBMPKH3FKGNDFCZFPTQKDLGF -->
